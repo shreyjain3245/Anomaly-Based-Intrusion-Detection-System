@@ -1,0 +1,2 @@
+# Anomaly-Based-Intrusion-Detection-System
+This project focuses on detailed study on NSL- KDD dataset after extracting some of the relevant records and then several experiments have been performed and evaluated to assess various machine learning classifiers based on dataset. The implemented experiments demonstrated that the Random forest classifier has achieved the highest average accuracy and has outperformed the other models in various evaluations.
